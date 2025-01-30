@@ -72,7 +72,7 @@ Azure AI Searchは以下のように思ったときに使う機能になりま�
    - Azure AI Searchはクラウドベースのサービスなので、完全にオンプレミスで運用したい企業には向かない。  
 
 
-## 1-5. 先に実例をいくつか
+## 1-5. 実例いくつか
 
 ### ネオス株式会社「AIチャットボット」
 ネオス株式会社は、AIチャットボット「OfficeBot」のインフラをMicrosoft Azureに完全移行し、
@@ -108,9 +108,17 @@ Elasticsearchは、開発者がAI検索アプリを構築できる
 # 2.構築
 ## 2-1.Azure AI Searchを構成する基本手順
 
+1. Azure AI Searchの作成
+2. データの取り込み
+3. インデックスの作成
+4. クエリを実行
+5. AIの強化
+6. 運用・メンテナンス
+
+
 ![image](https://github.com/user-attachments/assets/2dcafa8b-8a3b-4064-a94c-5e04296ff149)
 
-
+### 1.Az
 データの準備
 Azure ポータルにログイン
 Azure Storage Accountの作成とコンテナーの設定
