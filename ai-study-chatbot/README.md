@@ -16,14 +16,14 @@ https://kzmg85bfpuej52vs52k5.lite.vusercontent.net/
 - **📱 レスポンシブデザイン**：スマホ、タブレット、PC対応
 - **🔍 サンプル質問**：質問しやすいようにヒントを表示
 
-##  技術スタック
+##  技術スタック（例）
 - **フロントエンド**: Next.js (App Router)
 - **バックエンド/API**: OpenAI GPT-4
 - **スタイリング**: Tailwind CSS
 - **データ管理**: Zustand（状態管理）
 - **デプロイ**: Vercel
 
-##  フォルダ構成
+##  フォルダ構成（例）
 ```
 📦 ai-study-chatbot
 ├── 📂 app              # Next.jsのApp Router構成
@@ -41,7 +41,7 @@ https://kzmg85bfpuej52vs52k5.lite.vusercontent.net/
 
 ```
 
-##  セットアップ方法
+##  セットアップ方法（例）
 ### 1️⃣ 必要なツールをインストール
 以下のツールが必要です。
 - Node.js (推奨: v18以上)
